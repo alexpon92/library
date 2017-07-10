@@ -9,7 +9,10 @@
 ## DDD concept arictles
 
 **DDD learning resources**
-1. [DD learning portal](http://dddcommunity.org/learning/)
+1. [DDD learning portal](http://dddcommunity.org/learning/)
+
+**DDD in practice**
+1. [DDD in practice](https://www.infoq.com/articles/ddd-in-practice)
 
 **DDD implementation guide in symphony**
 1. [First part. Base concept](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/)
