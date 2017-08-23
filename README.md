@@ -23,4 +23,4 @@
 1. [REST in laravel](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 
 ## Billing
-1. [Billing in telecom] https://www.tutorialspoint.com/telecom-billing/products-services.htm
+1. [Billing in telecom](https://www.tutorialspoint.com/telecom-billing/products-services.htm)
